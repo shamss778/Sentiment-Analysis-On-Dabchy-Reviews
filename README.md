@@ -1,3 +1,5 @@
+# Not Functional anymore, see NLP-with-deep-learning-sentiment-analysis
+
 # Dabchy App Review Sentiment Analysis
 
 ## Project Overview
